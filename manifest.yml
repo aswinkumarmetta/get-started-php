@@ -1,5 +1,5 @@
 ---
 applications:
- - name: GetStartedPHP
+ - name: aswinmetta3
    random-route: true
    memory: 128M
